@@ -63,6 +63,7 @@ passkey - 1234<br>_
 - _Weather forecast for Bhopal tomorrow._
 - _Forecast for Jabalpur the day after tomorrow._
 - _Considering the weather of mumbai should I keep umbrella?_
+- _Should I wear jacket in Shimla tomorrow?_
 - _Should I travel out in Bangalore considering the weather?_
 - _Considering the weather in Mumbai should I move out?_
 - _Do I need to wear a sweater tomorrow in Goa?_
