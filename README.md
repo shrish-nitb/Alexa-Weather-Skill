@@ -1,5 +1,5 @@
 # Alexa-Weather-Skill
-Advanced voice based weather bot capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application Voice Based User Authentications and Session handling. Simply it answers your queries related to weather, forecasts and other related stuff. 
+Advanced voice based weather bot capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application is capable of Voice Based User Authentications and Session handling. Simply it answers your queries related to weather, forecasts and other related stuff. 
 
 Demo credentials
 fullname - Shrish Shrivastava
