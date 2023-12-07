@@ -43,9 +43,11 @@ passkey - 1234<br>_
 - _Is it going to rain in London tomorrow?_
 - _What's the weather in sydney right now?_
 - _Tell me the temperature in New York City this evening_
+- _Tell me the temperature of New York City at six_
 - _Any snowfall expected in Berlin next week?_
 - _How humid is it in Los Angeles today?_
 - _Give me the weather update for Beijing this morning._
+- _Tell me the sunrise in New York tomorrow_
 - _Is an umbrella needed in Jaipur tomorrow_?
 - _How will the weather be in Bhopal tomorrow?_
 - _How does it feel in Bhopal today?_
