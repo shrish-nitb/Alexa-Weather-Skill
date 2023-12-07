@@ -39,6 +39,9 @@ passkey - 1234<br>_
 
 - _Weather in Jaipur._
 - _Humidity in Bhopal._
+- _Wind speed in Bhopal today_
+- _Wind Direction in Bhopal today_
+- _Sunset in Jaipur today_
 - _will it rain in Bhopal tomorrow?_
 - _Is it going to rain in London tomorrow?_
 - _What's the weather in sydney right now?_
@@ -47,6 +50,7 @@ passkey - 1234<br>_
 - _Any snowfall expected in Berlin next week?_
 - _How humid is it in Los Angeles today?_
 - _Give me the weather update for Beijing this morning._
+- _When will sunset in Sydney today?_
 - _Tell me the sunrise in New York tomorrow_
 - _Is an umbrella needed in Jaipur tomorrow_?
 - _How will the weather be in Bhopal tomorrow?_
