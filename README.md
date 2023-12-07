@@ -21,7 +21,7 @@ This skill allows you to check weather conditions and forecasts for any given lo
    - Say "my weather soft" to invoke the skill.
 
 2. **Login:**
-   - Provide registered fullname and passkey when prompted.
+   - Provide registered fullname and passkey when prompted.<br>
 Open credentials<br>
 fullname - Shrish Shrivastava<br>
 passkey - 1234<br>
