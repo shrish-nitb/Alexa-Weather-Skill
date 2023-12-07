@@ -7,13 +7,13 @@ Demo credentials<br>
 fullname - Shrish Shrivastava<br>
 passkey - 1234<br>
 
-**#How to start the app**
+**How to start the app**
 1. Grant test access for your email form the author(shrish108@gmail.com) for BETA Testing
 2. Install it on your Alexa Device via Invite link sent on your email.
 3. Invocation using "Alexa, Open my weather soft"
 4. Say "Help"
 
-**#Basic Usage and work flow**
+**Basic Usage and work flow**
   You can invoke the skill saying "my weather soft" and, exit saying "goodbye"... After invocation to Login, speak the registered fullname then passkey when asked... Once you are logged in, to switch account say "goodbye" or "tata" and revoke the skill... <br>
   This skill can be used to determine weather conditions, 3 days forecasts of any given location and it also keeps you from forgetting your umbrella, sunscreen or sweater.  <br>
     **You can ask it...** <Br>
