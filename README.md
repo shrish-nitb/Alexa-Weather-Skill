@@ -22,9 +22,9 @@ This skill allows you to check weather conditions and forecasts for any given lo
 
 2. **Login:**
    - Provide registered fullname and passkey when prompted.<br>
-Open credentials<br>
+_Open credentials<br>
 fullname - Shrish Shrivastava<br>
-passkey - 1234<br>
+passkey - 1234<br>_
 
 3. **Logged In:**
    - Once logged in, you can inquire about weather conditions without re-authentication.
@@ -37,17 +37,18 @@ passkey - 1234<br>
 
 ## Example Queries:
 
-- Weather in Jaipur.
-- Humidity in Bhopal.
-- Is an umbrella needed in Jaipur tomorrow?
-- How will the weather be in Bhopal tomorrow?
-- How does it feel in Bhopal today?
-- Humidity status in Bhopal today.
-- Humidity forecast for Bhopal tomorrow.
-- Weather forecast for Bhopal tomorrow.
-- Forecast for Jabalpur the day after tomorrow.
-- Do I need to wear a sweater tomorrow in Goa?
-- Should I apply sunscreen tomorrow in Bhopal?
+- _Weather in Jaipur._
+- _Humidity in Bhopal._
+- _Is an umbrella needed in Jaipur tomorrow_?
+- _How will the weather be in Bhopal tomorrow?_
+- _How does it feel in Bhopal today?_
+- _Humidity status in Bhopal today._
+- _Humidity forecast for Bhopal tomorrow._
+- _Weather forecast for Bhopal tomorrow._
+- _Forecast for Jabalpur the day after tomorrow._
+- _Do I need to wear a sweater tomorrow in Goa?_
+- _Should I apply sunscreen tomorrow in Bhopal?_
+  <br>and many more...
 
 **Note:**
 - Session data is conserved after login until you say "goodbye."
