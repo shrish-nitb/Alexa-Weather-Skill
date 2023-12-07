@@ -55,7 +55,7 @@ passkey - 1234<br>_
 - For Alexa-enabled devices with a screen, the session might be conserved for a short time with the microphone closed.
 - Please provide a fully qualified city or state or country name with your queries.
 - The program is still in BETA phase of development so You may encounter errors, warning, null or the program might not work as intended sometimes.
-- LLM support is temporarily implemented without any dedicated API calls, which is later proposed to transform to API based to ensure session longevity and concurrency.
+- LLM support is temporarily implemented without any dedicated API calls, which is later proposed to transform into API based for ensuring session longevity and concurrency.
 
 Feel free to use and contribute to this weather assistant skill! Stay weather-ready!
 
