@@ -1,10 +1,10 @@
 # Alexa - my weather soft
-Advanced voice based weather bot hosted on Serverless AWS Lambda functions capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application has Voice Based UI/UX, User Authentications facility and Session handling. Simply answering your queries related to weather, forecasts and other related stuff elaborated below in the usage instructions. Supports an array of voice features via Speech Synthesis Markup Language (SSML).
+Advanced voice based weather bot hosted on Serverless AWS Lambda functions capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application has Voice Based UI/UX, User Authentication facility and Session handling. Simply answering your queries related to weather, forecasts and other related stuff elaborated below in the usage instructions. Supports an array of voice features via Speech Synthesis Markup Language (SSML).
 
 <p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1701933352/my_weather_soft.drawio_jtcehf.svg" alt="architecture"></p>
 
-**Prereuisites**
-1. Grant test access for your email form the author(shrish108@gmail.com) for BETA Testing
+**Prerequisites**
+1. Grant test access for your email form the author(shrish108@gmail.com) for BETA Testing.
 2. Install it on your Alexa Device via Invite link sent on your email.
 3. Invocation using "Alexa, Open my weather soft"
 4. Say "Help"
