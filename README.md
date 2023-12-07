@@ -33,7 +33,7 @@ passkey - 1234<br>_
    - To switch accounts, say "goodbye" or "tata."
 
 5. **Exit Skill:**
-   - Say "goodbye" to revoke the skill.
+   - Say "goodbye" to end the session and close the skill.
 
 ## Example Queries:
 
