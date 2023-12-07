@@ -53,14 +53,22 @@ passkey - 1234<br>_
 - _When will sunset in Sydney today?_
 - _Tell me the sunrise in New York tomorrow_
 - _Is an umbrella needed in Jaipur tomorrow_?
+- _Will there be a temperature fall in Jaipur tomorrow?_
+- _Any chance of a clear sky for stargazing in Goa tonight?_
+- _What things should I keep with me in Bhopal?_
 - _How will the weather be in Bhopal tomorrow?_
 - _How does it feel in Bhopal today?_
 - _Humidity status in Bhopal today._
 - _Humidity forecast for Bhopal tomorrow._
 - _Weather forecast for Bhopal tomorrow._
 - _Forecast for Jabalpur the day after tomorrow._
+- _Considering the weather of mumbai should I keep umbrella?_
+- _Should I travel out in Bangalore considering the weather?_
+- _Considering the weather in Mumbai should I move out?_
 - _Do I need to wear a sweater tomorrow in Goa?_
 - _Should I apply sunscreen tomorrow in Bhopal?_
+- _Considering the weather should I plan trip to Miami?_
+- _What items should I keep in visit to Mumbai tomorrow?_
   <br>and many more...
 
 **Note:**
