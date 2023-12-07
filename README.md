@@ -13,22 +13,48 @@ passkey - 1234<br>
 3. Invocation using "Alexa, Open my weather soft"
 4. Say "Help"
 
-**Basic Usage and work flow**
-  You can invoke the skill saying "my weather soft" and, exit saying "goodbye"... After invocation to Login, speak the registered fullname then passkey when asked... Once you are logged in, to switch account say "goodbye" or "tata" and revoke the skill... <br>
-  This skill can be used to determine weather conditions, 3 days forecasts of any given location and it also keeps you from forgetting your umbrella, sunscreen or sweater.  <br>
-    **You can ask it...** <Br>
-   _ Weather in Jaipur.
-    Humidity in Bhopal.
-    Is Umbrella needed in Jaipur tomorrow?
-    How will the weather be in bhopal tomorrow?
-    How it feels in bhopal today?
-    How is Humidity in bhopal today?
-    How will humidity be in bhopal tomorrow?
-    What is forecast for bhopal tomorrow?
-    Forecast for Jabalpur day after tomorrow?
-    Do I need to wear sweater tomorrow in Goa?
-    Should I apply sunscreen tomorrow in bhopal?_
-  **Note: Once logged in unless you say "goodbye" you need not to verify identity everytime as the session data remains conserved.<br>
-The session might remain conserved for a short time with the microphone closed if the user uses the skill on an Alexa-enabled device with a screen**`
+# Usage Instructions
+
+## Description
+
+This skill allows you to check weather conditions and forecasts for any given location. Additionally, it helps you remember essential items like umbrellas, sunscreen, raincoat, or sweaters based on the weather. The skill features user authentication for personalized weather updates.
+
+## Usage
+
+1. **Invocation:**
+   - Say "my weather soft" to invoke the skill.
+
+2. **Login:**
+   - Provide registered fullname and passkey when prompted.
+
+3. **Logged In:**
+   - Once logged in, you can inquire about weather conditions without re-authentication.
+
+4. **Switch Account:**
+   - To switch accounts, say "goodbye" or "tata."
+
+5. **Exit Skill:**
+   - Say "goodbye" to revoke the skill.
+
+## Example Queries:
+
+- Weather in Jaipur.
+- Humidity in Bhopal.
+- Is an umbrella needed in Jaipur tomorrow?
+- How will the weather be in Bhopal tomorrow?
+- How does it feel in Bhopal today?
+- Humidity status in Bhopal today.
+- Humidity forecast for Bhopal tomorrow.
+- Weather forecast for Bhopal tomorrow.
+- Forecast for Jabalpur the day after tomorrow.
+- Do I need to wear a sweater tomorrow in Goa?
+- Should I apply sunscreen tomorrow in Bhopal?
+
+**Note:**
+- Session data is conserved after login until you say "goodbye."
+- For Alexa-enabled devices with a screen, the session might be conserved for a short time with the microphone closed.
+
+Feel free to use and contribute to this weather assistant skill! Stay weather-ready!
+
 
 
