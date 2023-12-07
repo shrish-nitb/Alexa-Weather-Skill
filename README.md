@@ -1,7 +1,25 @@
 # Alexa-Weather-Skill
 Advanced voice based weather bot capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application has Voice Based User Authentications facility and Session handling. Simply it answers your queries related to weather, forecasts and other related stuff elaborated below. Supports an array of voice features via Speech Synthesis Markup Language (SSML).
-![Preview](https://github.com/shrish-nitb/Alexa-Weather-Skill/blob/463236482b722324842efb9258f4c37f1831645b/my%20weather%20soft.drawio.svg
-)
+
+![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)
+
+<details> 
+<summary>SVG code</summary>
+
+```
+@sample.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="121px" height="81px" viewBox="-0.5 -0.5 121 81" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <ellipse cx="60" cy="40" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+    </g>
+</svg>
+@sample.svg
+```
+
+</details>
 
 Demo credentials
 fullname - Shrish Shrivastava
