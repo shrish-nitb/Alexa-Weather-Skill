@@ -30,7 +30,7 @@ passkey - 1234<br>_
    - Once logged in, you can inquire about weather conditions without re-authentication.
 
 4. **Switch Account:**
-   - To switch accounts, say "goodbye" or "tata."
+   - To switch accounts, say "goodbye" or "tata" then invoke the skill again.
 
 5. **Exit Skill:**
    - Say "goodbye" to end the session and close the skill.
