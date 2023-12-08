@@ -42,7 +42,7 @@ export const handler = async (event, context) => {
   if(obj.data.location){
     loc = obj.data.location.value
   } else {
-    loc = obj.data['object.location.addressLocality.name'].value || obj.data['object.location.addressRegion.name'].value || obj.data['object.location.addressCountry.name'].value || "New Delhi";
+    loc = obj.data['object.location.addressLocality.name'].value || obj.data['object.location.addressRegion.name'].value || obj.data['object.location.addressCountry.name'].value || "India";
   // if(obj.data.location.resolutions.resolutionsPerAuthority && obj.data.location.resolutions.resolutionsPerAuthority[0].values && (/^[a-zA-Z.,\-\s]*$/).test(obj.data.location.resolutions.resolutionsPerAuthority[0].values[0].value.name)){
   //   loc = obj.data.location.resolutions.resolutionsPerAuthority[0].values[0].value.name;
   // }
@@ -61,8 +61,12 @@ export const handler = async (event, context) => {
     );
     //remove hourly details from forecasted data in response.data to minify the json
     delete response.data.forecast.forecastday[0].hour;
-    delete response.data.forecast.forecastday[1].hour;
+    // delete response.data.forecast.forecastday[1].hour;
     delete response.data.forecast.forecastday[2].hour;
+
+
+ response.data.forecast.forecastday[1].hour = response.data.forecast.forecastday[1].hour.map((e)=>{for(let key in e){if(key!='temp_c'){delete e[key]}} return e})
+
     let apiResponse = JSON.stringify(response.data);
     let ask = "Form an interrogative sentence from these: "+  alexaValues;
 
@@ -177,7 +181,7 @@ export const handler = async (event, context) => {
         sources: "†0, †1, †2, †3, †4",
         passthrough: "n/a",
         providedContext:
-          'Summary of the conversation:\n"""\n\n"""\n\nTranscript:\n"""\nuser: '+ask2+' \n\n"""',
+          'Summary of the conversation:\n"""\n\n"""\n\nTranscript:\n"""\nuser: ask2 \n\n"""',
       },
       options: {
         truncate_order: [
