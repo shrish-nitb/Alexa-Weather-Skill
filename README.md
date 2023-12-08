@@ -37,17 +37,17 @@ passkey - 1234<br>_
 
 ## Example Queries:
 
--_Weather in Jaipur._
--_Humidity in Bhopal._
--_Is an umbrella needed in Jaipur tomorrow?_
--_How will the weather be in Bhopal tomorrow?_
--_How does it feel in Bhopal today?_
--_Humidity status in Bhopal today._
--_Humidity forecast for Bhopal tomorrow._
--_Weather forecast for Bhopal tomorrow._
--_Forecast for Jabalpur the day after tomorrow._
--_Do I need to wear a sweater tomorrow in Goa?_
--_Should I apply sunscreen tomorrow in Bhopal?_
+* *Weather in Jaipur.*
+* *Humidity in Bhopal.*
+* *Is an umbrella needed in Jaipur tomorrow?*
+* *How will the weather be in Bhopal tomorrow?*
+* *How does it feel in Bhopal today?*
+* *Humidity status in Bhopal today.*
+* *Humidity forecast for Bhopal tomorrow.*
+* *Weather forecast for Bhopal tomorrow.*
+* *Forecast for Jabalpur the day after tomorrow.*
+* *Do I need to wear a sweater tomorrow in Goa?*
+* *Should I apply sunscreen tomorrow in Bhopal?*
   <br>and many more...
 
 **Note:**
