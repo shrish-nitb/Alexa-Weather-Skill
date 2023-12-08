@@ -43,10 +43,12 @@ passkey - 1234<br>_
 - _Wind Direction in Bhopal today_
 - _Sunset in Jaipur today_
 - _will it rain in Bhopal tomorrow?_
+- _Temperature of Bhopal tomorrow afternoon_
 - _Is it going to rain in London tomorrow?_
 - _What's the weather in sydney right now?_
 - _Any snowfall expected in Berlin next week?_
 - _How humid is it in Los Angeles today?_
+- _Temperature of Bhopal tomorrow at six_
 - _Give me the weather update for Beijing this morning._
 - _When will sunset in Sydney today?_
 - _Tell me the sunrise in New York tomorrow_
