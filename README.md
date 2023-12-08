@@ -1,4 +1,4 @@
-# Alexa - my weather soft
+![image](https://github.com/shrish-nitb/Alexa-WeatherBot-myweathersoft/assets/19528481/2b8282b8-15e6-48f7-90dd-2b1719fa8f56)# Alexa - my weather soft
 Advanced voice based weather bot hosted on Serverless AWS Lambda functions capable of processing well sophisticated prompts via Alexa powered NLU and trained GPT  3.5 Turbo for NLP, The application has Voice Based UI/UX, User Authentication facility and Session handling. Simply answering your queries related to weather, forecasts and other related stuff elaborated below in the usage instructions. Supports an array of voice features via Speech Synthesis Markup Language (SSML).
 
 <p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1701933352/my_weather_soft.drawio_jtcehf.svg" alt="architecture"></p>
@@ -37,40 +37,17 @@ passkey - 1234<br>_
 
 ## Example Queries:
 
-- _Weather in Jaipur._
-- _Humidity in Bhopal._
-- _Wind speed in Bhopal today_
-- _Wind Direction in Bhopal today_
-- _Sunset in Jaipur today_
-- _will it rain in Bhopal tomorrow?_
-- _Temperature of Bhopal tomorrow afternoon_
-- _Is it going to rain in London tomorrow?_
-- _What's the weather in sydney right now?_
-- _Any snowfall expected in Berlin next week?_
-- _How humid is it in Los Angeles today?_
-- _Temperature of Bhopal tomorrow at six_
-- _Give me the weather update for Beijing this morning._
-- _When will sunset in Sydney today?_
-- _Tell me the sunrise in New York tomorrow_
-- _Is an umbrella needed in Jaipur tomorrow_?
-- _Will there be a temperature fall in Jaipur tomorrow?_
-- _Any chance of a clear sky for stargazing in Goa tonight?_
-- _What things should I keep with me in Bhopal?_
-- _Temperature of Tokyo in afternoon tomorrow._
-- _How will the weather be in Bhopal tomorrow?_
-- _How does it feel in Bhopal today?_
-- _Humidity status in Bhopal today._
-- _Humidity forecast for Bhopal tomorrow._
-- _Weather forecast for Bhopal tomorrow._
-- _Forecast for Jabalpur the day after tomorrow._
-- _Considering the weather of mumbai should I keep umbrella?_
-- _Should I wear jacket in Shimla tomorrow?_
-- _Should I travel out in Bangalore considering the weather?_
-- _Considering the weather in Mumbai should I move out?_
-- _Do I need to wear a sweater tomorrow in Goa?_
-- _Should I apply sunscreen tomorrow in Bhopal?_
-- _Considering the weather should I plan trip to Miami?_
-- _What items should I keep in visit to Mumbai tomorrow?_
+-_Weather in Jaipur._
+-_Humidity in Bhopal._
+-_Is an umbrella needed in Jaipur tomorrow?_
+-_How will the weather be in Bhopal tomorrow?_
+-_How does it feel in Bhopal today?_
+-_Humidity status in Bhopal today._
+-_Humidity forecast for Bhopal tomorrow._
+-_Weather forecast for Bhopal tomorrow._
+-_Forecast for Jabalpur the day after tomorrow._
+-_Do I need to wear a sweater tomorrow in Goa?_
+-_Should I apply sunscreen tomorrow in Bhopal?_
   <br>and many more...
 
 **Note:**
