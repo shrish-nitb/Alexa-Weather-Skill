@@ -56,6 +56,7 @@ passkey - 1234<br>_
 - _Will there be a temperature fall in Jaipur tomorrow?_
 - _Any chance of a clear sky for stargazing in Goa tonight?_
 - _What things should I keep with me in Bhopal?_
+- _Temperature of Tokyo in afternoon tomorrow._
 - _How will the weather be in Bhopal tomorrow?_
 - _How does it feel in Bhopal today?_
 - _Humidity status in Bhopal today._
@@ -69,6 +70,7 @@ passkey - 1234<br>_
 - _Do I need to wear a sweater tomorrow in Goa?_
 - _Should I apply sunscreen tomorrow in Bhopal?_
 - _Considering the weather should I plan trip to Miami?_
+- _Temperature of Tokyo tomorrow at six_
 - _What items should I keep in visit to Mumbai tomorrow?_
   <br>and many more...
 
