@@ -70,7 +70,6 @@ passkey - 1234<br>_
 - _Do I need to wear a sweater tomorrow in Goa?_
 - _Should I apply sunscreen tomorrow in Bhopal?_
 - _Considering the weather should I plan trip to Miami?_
-- _Temperature of Tokyo tomorrow at six_
 - _What items should I keep in visit to Mumbai tomorrow?_
   <br>and many more...
 
