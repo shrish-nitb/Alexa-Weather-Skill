@@ -42,8 +42,7 @@ passkey - 1234<br>_
 
 <p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280097/442c01ba0179affbe3643f8ca3211661-0_h6qdmi.png" alt="demo"></p>
 
-
-<p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280095/442c01ba0179affbe3643f8ca3211661-1_xrpdvu.png" alt="demo"></p>
+<p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280309/442c01ba0179affbe3643f8ca3211661-1_xrpdvu.png" alt="demo"></p>
 
 ## Example Queries:
 
