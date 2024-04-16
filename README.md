@@ -34,6 +34,15 @@ passkey - 1234<br>_
 5. **Exit Skill:**
    - Say "goodbye" to end the session and close the skill.
 
+
+
+## Screenshots:
+<p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280095/442c01ba0179affbe3643f8ca3211661-1_xrpdvu.png" alt="demo"></p>
+
+<p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280096/442c01ba0179affbe3643f8ca3211661-2_t8uruu.png" alt="demo"></p>
+
+<p align="center"><img src="https://res.cloudinary.com/djjbjnrgl/image/upload/v1713280097/442c01ba0179affbe3643f8ca3211661-0_h6qdmi.png" alt="demo"></p>
+
 ## Example Queries:
 
 * *Weather in Jaipur.*
